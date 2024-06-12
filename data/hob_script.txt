@@ -1,0 +1,137 @@
+Hob is like Zelda. The older Zeldas. Or a newer one if you’ve played A Link Between Worlds. So it’s more like this:
+
+(Binding of Isaac footage)
+
+Than it is like this:
+
+(Skyrim BotW footage)
+
+I was very excited when I saw a trailer for Hob because I’ve been wondering for a while now: why don’t more smaller developers try to make a game like the top-down Zelda titles? They’re a favorite for many people—a bunch of us grew up adoring them. I played A Link to the Past to death as a kid. And yet that type of game has been relatively untouched in the indie scene, while we get platformer after platformer.
+
+So along comes Hob, which might help answer that question but it’s more likely to lead to even more questions. Before we dig in with spoilers, I think it’s proper to show you all just how much this game really is like Zelda, just in case you missed its release in September. You might really enjoy this game, despite its many problems.
+
+You have a sword and a shield. You can use both during combat. You run around enemies and wait for openings while fighting. Clearing some rooms of enemies will trigger the opening of the way forward. Otherwise you’re looking for switches and levers to pull, puzzles to solve, and some light platforming with a jump command that’s a little like a top-down version of some of the stuff from the 3D Zeldas. Although it’s not an auto-jump. You’re in control of it.
+
+There are even many blocks to find and push around to make a path forward. Some of them are even stuck on tracks!
+
+In these ways, it’s like Zelda. In every other way, Hob is its own game with its own sense of identity. In part, this is great. There are some really good ideas in this game that are worth seeing. The rest, however, feels like they were included out of obligation and weren’t given enough attention. And even those are separate from what I think is Hob’s biggest, most glaring problem.
+
+There will be spoilers from here.
+
+Also, here’s a brief reminder that I’ve begun streaming on Twitch. I’m doing a longer stream for Nioh’s PC release right now. There should be a link below.
+
+One half of Hob is wonderful. And I don’t use that word as a lazy synonym for “good” or “great”. I truly mean that it’s full of wonder. This is found in Hob’s level and world design, although it also overlaps with visuals and some moments in gameplay as well.
+
+You play as a little hooded half-person, half-machine. A mix that matches most of the world that the game takes place in. Initially this may appear like a tired, overused setting: it’s a place that has long ago fallen to ruin. Some battle has been fought and lost. Some corruption has taken hold of it. You wander around this forgotten world and slowly peel away at what’s happened. Parts of it wake up as you do so. This should all sound really familiar if you’ve been playing games recently.
+
+What sets Hob apart is that you are no mere bystander wanderer—limited only to watching—as you move through this lost world. Whereas you do cause changes and remove some threats in games like Dark Souls and Hollow Knight—two of many games that have settings like this—your actions do little to directly improve the state of the world immediately after you achieve your goals. In fact it’s questionable if your success will change anything at all at the end.
+
+Hob, on the other hand, is like an extreme version of the changes you can cause in Ori and the Blind Forest. It’s a lot more holistic in approach. In Hob’s world, parts of the land have been quaked out of alignment. The landscape is like a set of broken stairs, and this is something that you fix as you journey through the game. Same for fixing the world’s main power generator, and then restoring those lines of power to every place. The rivers are all dried out and sure enough you’ll be reconnecting them to the main water reservoir. Even that overused alien infestation type of corruption can be purged and removed from the map.
+
+There are a few things that I’d like to make clear here if you haven’t played the game before we continue. None of what I just described is limited to just one area. Nor is it simply cosmetic. You unlock access to new parts of the world with each part of it that you restore. While many of these stages of repairing start in one place they then have to be continued in every major part of the game.
+
+View it like this: the world is sick and damaged. You fix its broken skeleton—the individual plates that each area sits on top of—and then reconnect water and power like you’re replenishing the dried up arteries of the land. Then cleanse the diseased tumors that must have caused all the trouble to begin with. It’s a tangled mess of machine and flesh that you set right.
+
+The strongest moments of wonder are hinted at when you’re in the guts of the planet: a true underbelly, where it’s more machine than the nature resting above. You can see two things down here: previews in the distance of the land that you will cause to ascend later as a new area to move through, and your introduction to how this concept is used in gameplay. It’s one of the coolest features in Hob, but it’s also unfortunately where the problems I have with it begin to show up.
+
+This mix of construction and remodeling of the world isn’t limited to just set moments where you’re pushed into a new area. It’s an ongoing mechanic that is incorporated into exploring and puzzle solving throughout the whole game. Early on you will see floors, pillars, and walls be altered and restructure themselves into new paths. Or the way that you move through an area to get to an important trigger point—like acquiring a new upgrade—will be permanently changed into something else when you make your way out of that area.
+
+What makes this impressive is that parts of these paths are reused. It’s not that they’re all wiped clean—destroyed and swept away—to be replaced by a new set of machinery. It gives the impression that this world was created for some purpose and that whoever originally built all of this had a need for the multiple settings in each area. It’s just that now that half of it has been ruined, you’re using it to solve what now function as puzzles. It’s convenient and a little contrived, but Hob isn’t really a story game so it didn’t really bother me that much.
+
+This is also something that becomes less impressive when your perception of how it was designed is twisted: consider that the final placements of all of these different parts was probably the original formation, and that they were changed in reverse. The areas were then designed around that and set into their lowered position, so that they didn’t have to be quite so carefully designed ahead of time. This is actually really smart if they did it this way and, even though I’m pointing it out, it doesn’t diminish the effect that it has when you first encounter these sequences. Some of them do get a significant amount of use of both versions of the machinery as well, which must have been difficult to put together and plan. It’s when the game was most impressive to me.
+
+However this leads us to a problem that may have been caused by exactly that. In fact I’m almost certain that it’s the cause. See, because of the unexpected nature of how parts of the world change in reaction to your pushing and pulling of switches, levers, power boxes, and all sorts of other things, it was never something that I could anticipate happening.
+
+The game does lead you through its puzzles by pointing out power lines to follow, or symbols on the map, or dried out rivers, but on a smaller scale—you have no way of really knowing how or when huge pieces of puzzles will appear, or where they’ll move to, or what effect every switch will have.
+
+Because of this unpredictable assembly, only a handful of puzzles in Hob are things you can think through and then solve. And I mean a regular handful, not this giant monstrosity of a thing that you’re using. These puzzles that you can predict are the simpler ones in the game, or simple smaller parts of larger puzzles. Like pulling this big wheel on a track to make a platform to jump on. Or raising the water level in this area to make the teleport platform go higher.
+
+What this means is that there are large stretches of time spent underground—in what passes as something of a dungeon in Hob—wherein you are just following the only path available to you. If you pull a switch and a path opens, you follow it until you find the next switch and see what happens after that. If a new platform rises then that’s where you go. Or a four legged vehicle will appear and you control that down the only path available and see what happens next. There are similar, more contained puzzles in the overworld that function in the same way. Flip a switch. See what happens. Follow it blindly, like breadcrumbs on a trail, until you get to the next switch and keep on going.
+
+The puzzles that may require more thought than that are usually tedious—again likely because of this mechanic of changing the environment which is slow to manipulate. Like rotating a pillar into the right alignment, then solving the first step of the puzzle, and then going all the way back to change its alignment again to finally solve it. This may not seem that bad but more than once the game is slowed to boredom because of it. You’ve already solved this puzzle in your head long before you’ve demonstrated it, and this was the trend I noticed with the puzzles that require more than just flipping switches in a row. It was: interact with the first piece, use that to change something, and then go back to interact with the first piece again or reset it entirely in order to proceed.
+
+In this way, it’s a good thing that the majority of the “puzzles” are the unpredictable ones, because you can move through them quickly, feel like you’re making great progress as things change, and they can be cool surprises when you see what just happened now that you’ve moved onto a new stage of the area. The problem with this is that you are risking players getting lost along the way. If you’re just meant to follow things from one sequence to the next, and you don’t immediately grasp where the “next” part is, then you’re left hopelessly wandering around trying everything to see what works. This is where some hints and sign posting on the floor can help—usually power lines that I mentioned earlier that you’re trying to connect. But there is a much, MUCH, larger problem here. It’s the biggest problem the game has. Similar to how the Zerg-like infestation haunts the world of Hob, this issue corrupts the entire game.
+
+Hob isn’t finished. In fact, when I was done with my first playthrough, I had to check the store page to see if it was in Early Access and I hadn’t noticed before when I got it. I streamed my first run of this game—you can go watch the whole thing if you like on my second channel—and many people were shocked as I encountered glitch after bug after glitch.
+
+We’ll go through a long, sprawling list of them shortly but for now there’s an important type of bug that can destroy your enjoyment of these puzzle parts in the game. Simply put: it’s when the trigger for the next part of the puzzle doesn’t spawn, or teleports away, or simply doesn’t work.
+
+Let’s go through some examples. A fair way through the game you’re meant to drag this box onto a square on the floor in order to trigger an elevator to carry it above. On my first playthrough this worked perfectly. My second time it didn’t work. It failed twice, and I count myself lucky that this happened on my second time through, because after trying twice I would have wandered away and likely not come back here to try again for quite some time. All because of a glitch.
+
+You may be thinking this is a minor issue. For this particular example, all on its own, you may be right. But there were a few others like this that happened to me: buttons you’re meant to punch not responding to the move. Or parts of ladders despawning after you’ve unlocked them so they’re no longer usable. Some of these are fixed by quitting to your desktop and restarting the game, but the biggest issue arises when you don’t realize that the bug has occurred.
+
+The worst one that I encountered was in this room. After moving a box, flipping a switch, and then moving the box again, I followed a path to this room underground. There are enemies here and, after killing all of them, I hit a deadend. This was clearly where I was meant to be in order to progress through this area and yet nothing was happening.
+
+The issue was being caused by an enemy that had glitched out during the fight and teleported out of the room. In a way I’m lucky that it ended up back on the surface above the room and not permanently stuck somewhere, because otherwise I would have spent over an hour running around the whole area looking for some secret switch or something that I had missed. After killing the guy up top, the room below activated and I could finally continue.
+
+There’s an additional, more insidious problem here though. Once you’ve experienced something like this, it spoils the rest of the game in a very specific way. You start to second guess and question things that are happening—when you think what you just tried should trigger something. Is it working properly? Is it just a bug? Or are you just wrong? Like this handle that would teleport me to the other side of it when I used it. Was this just broken because of that warp, or does this thing just not do anything right now?
+
+This is why bugs are so bad and, while they may be funny and entertaining on a case-by-case basis, they can never be considered a positive like I’ve seen some reviewers claim. Especially when a game is like Hob and brimming with so many of them.
+
+Like this giant shark monster, which tries to kill you when you’re in the water reservoir, that decided to follow me through the sky and make fly-bys for a while after I left the area. Luckily it couldn’t deal damage and I could just watch it do its thing in through the air.
+
+Just like a bunch of other enemies that glitched out, becoming incorporeal statues instead of fighting. They were weird decorations that I couldn’t kill.
+
+Not that they’re guaranteed to work even when this doesn’t happen, since sometimes enemy attacks would just not deal damage when they hit me.
+
+Which might be balanced after all since it also happened to me when fighting them. Especially when trying to use the power punch ability.
+
+An enemy that glitched to stay alive in the final fight in the game hit me during a cinematic that played. And this enemy here decided to somehow be capable of tanking ten times as many hits as normal before dying. Maybe because it got half stuck in a wall.
+
+Even fall damage isn’t spared from this type of problem. Sometimes a fall would kill me when it shouldn’t. One time a fall that should cause me to explode wouldn’t trigger, but then the game would decide to kill me anyway by just teleporting me back to the respawn capsule without showing a death or a life lost or anything.
+
+But hey at least that’s not as bad as the time I died and only the camera was sent back to the very beginning of the game. It was linked to my movements where the respawn capsule was further into the game, which made it very confusing before I was forced to close the game and relaunch it.
+
+Other weird things in the world were models vanishing when I was standing in certain areas. Leaving the area and coming back wouldn’t fix this. Only a full restart would. Grass would sometimes respawn when I sliced at it with my sword—probably meaning that the fresh grass had already regrown but simply wasn’t showing until I attacked.
+
+Sometimes when you kill an enemy, a short burst of bullet time is activated to make things more dramatic—at least I think that’s the intention. This effect would sometimes trigger randomly. For no reason. Making some sequences of simply walking around suddenly more intense. No idea what’s happening here.
+
+After connecting this river to the main water supply, half of it didn’t spawn. Not only did this mean it looked ridiculous, it also meant the water wasn’t there so I couldn’t swim over these thorns like I was supposed to be able to.
+
+The angle required on the analogue stick to push some handles never made sense. This is impossible for me to show you but in these instances, I had to hold the stick and make my character “push” in the opposite direction that was shown on the screen.
+
+One time I fell right through a piece of the floor as it was extending, probably because it didn’t have a body associated with it until it was finished its animation to become a bridge. Something vaguely similar happened another time when I was able to move before respawning was finished, so when it did trigger I was away from the capsule but still doing the animation.
+
+And last but by no means least, one time the game decided to kill me out of nowhere. I wasn’t fighting. I wasn’t in danger. There were no enemies around. I didn’t fall. The game simply stopped me in place, faded to black like I died, and shot me back to the respawn point. Fortunately it wasn’t too far away from where I just was.
+
+This parade of glitches has been the worst of a list I kept through only two playthroughs. So I can only imagine how many more issues are in the game that I luckily didn’t run into. That’s not to mention how poorly the game runs—frequent stuttering, freezes, and things not loading properly. And this is after some patches.
+
+The tragic thing here is that these issues are not a result of a lack of love and care. In fact I think the way the world is put together stands as proof that this was a project that at least one person really wanted to make. Instead, Hob’s problems are caused by the fact that the game couldn’t be completed. A “fact” I’m comfortable pointing to since Runic Games, the studio that developed Hob, was shut down while I was writing this script.
+
+I’m going to guess that one of two things happened here: the decision was made before the game’s release and they rushed it out just because it was close to complete, or Hob was released early in an attempt to avoid closure if the game managed to exceed expectations and become a big hit. Something that, unfortunately for Runic Games, didn’t happen.
+
+You can see further proof of this in what I think is the most frightful feature that Hob is missing. There’s no ambient sound slider. There’s one for music. One for sound effects. But the third one is missing. Which means that everything else can be quiet, but these big musical blasts when you encounter something new, or pick up something important—anything like that—shudder out at full volume even if you have the others muted. Something that fundamental is missing from the game.
+
+Surprisingly this concept is linked heavily to combat in the game which you may have forgotten about, or maybe surprised to remember exists after fifteen or so minutes of this video talking about other things. Glitches aside, I think the unfinished nature of Hob hurts combat more than anything else. The set piece puzzles, with the world churning to life and activating with massive gears and turbines, feel mostly complete. Maybe there were meant to be more pieces of the world to elevate and explore, but what’s here is refined and functional enough not to feel half-baked.
+
+Combat, however, feels like all the ingredients are still on the countertop ready to be mixed. Maybe some of them got damp and seeped together. And that’s it really.
+
+Hob has very few enemy types. It has no bosses—save for a fight against a reskinned version of yourself at the end. Enemies are recycled with different armor types. And the whole thing feels like a heartbreaking missed opportunity.
+
+Let’s go through it: your character in Hob can walk or run around. There’s no lock on while fighting. And there are five—count them, FIVE—methods of evading enemy attacks: rolling, running, jumping, blocking, and a teleport. There is also a charged version of your punch attack, plus the ability to grapple line parts of enemy armor to peel them off. Enemies almost always have clear telegraphs or warnings when they’re about to attack so you can avoid damage.
+
+This is, without a word of exaggeration, one of the most fertile combat systems I’ve played in a while. The different methods of avoiding damage alone are worth a whole game exploring: enemies and especially bosses that have different types of attacks that require these different responses to avoid them. A sweep you have to jump over, a thrust you have to block, something else you need to roll, and damage patterns that you need to run from or teleport through.
+
+The different types of attacks you have could also be used way more creatively. Instead, your punch and grapple are glorified Quick Time Events that are seen as busywork at the beginning of encounters before you can finally start doing damage. At first they appear more like puzzles instead of fights since you have to work out how to remove the armor protecting them. But this will only take a few seconds at most and, once started, doesn’t feel fun because it’s just so simple. Enemies could have incorporated dynamic challenges that required quick responses with these different abilities you have available—especially bosses, if the game had any. Which is potential that the larger enemies hint at. Especially this one that teleports between different platforms.
+
+My second playthrough was on Very Hard and it felt near identical to my first run on Normal. Every fight is the same once the armored enemies have been stripped of their protection: spam your attacks then dart away from enemy strikes without getting greedy and hitting them too much.
+
+There is some clunkiness in this combat system—especially when it comes to how inconsistent it is to cancel moves like dodging into sword strikes and the like—but the current implementation of fighting in Hob led me to first think that it was included just out of obligation. Games like this have combat, therefore Hob should have some combat too. But the more I’ve thought about it, the more I see opportunity being squandered here, and it makes me think that with more time it would have been realized. I hope that was the plan all along and that Runic Games just didn’t have the resources to get there.
+
+Although maybe not and maybe I’m wrong, because exploration and the puzzles are the same sort of way. The difference is that they benefit from the spectacle of what’s happening, and the cool clicking of the land and mechanisms coming together. Whereas the enemies are always kind of boring. The only thing that does seem to be fully realized in the game are the many secrets tucked in the corners of the world. Some of these unfortunately suffer from a temperamental camera that switches perspectives at the wrong time, or refuses to move at all, but many of these secrets were enjoyable to find. They’re used to upgrade your health, energy, and sword damage, or allow you to purchase some new moves. This is a strange decision considering that none of the enemy encounters ever require this, and that nothing ever demands more than spamming attacks and dodging away from their counterattacks. Including the last boss, with its horde of strange clipping minions, nothing needs more than this from you in order to beat it.
+
+That final fight is also when some of the story clicks into place. I don’t think it’s worth discussing in detail but I’d like to at least mention it. Hob’s world, from what I can understand, has been corrupted by some sort of alien or foreign presence that has arrived unintentionally. This queen of the infestation is nothing like the monsters she has spawned throughout the land and, from her willingness to draw her corruption out of you at the end here, I wonder if she’s just a victim of circumstance and doesn’t realize what’s she done.
+
+Hob has many different factions: there’s the people that your character represents, that only emerge at the end of the game. Then there are the machines that I assume these people built. The alien corruption and, the way I interpret it, their trapped queen. And finally the forest sprites that I view as the nature of the world representing itself to fight back against the corruption—some of them unsuccessfully. I don’t know where the teeth-monsters fit into this but they’re just not that important.
+
+It’s a world where co-existence can sadly not succeed. Your choice at the end leads to either a resolution, or the robot you meet at the beginning of the game repeating the cycle by opening another door to find another like you. A process that is strongly hinted at happening at least once before now with your predecessor now serving the queen. The one you fight at the end.
+
+It’s vaguely interesting and I wonder if it suffers in the same way as the rest of the game: that it’s also unfinished. Or it could be something that’s trying its hardest to provide context while staying out of your way. There’s no voice acting or dialogue in Hob. The robot points to what it wants you to do instead. The corrupted queen mimes along with her unintelligible sounds at the end—looking to me to act out some sort of crash or catastrophe that happened in the past.
+
+This was good and bad since the game was never slowed down by what could have been a terrible story. But it also meant I had no real idea what I was supposed to be trying to do for most of the game or what I was building toward. A problem compounded by the fact that Hob is sort of an open world game. It’s closer to a Metroidvania with new abilities unlocking the way forward. There aren’t many of these however, and some of the paths they open require some tedious backtracking through prior areas. It’s also something that your robot friend eventually stops helping you with—there’s no replacement either. Instead you’re given map markers out of nowhere for the next place to go, whereas the robot pal was the one to provide them before. It’s like the game gives up and just tells you where to go.
+
+Ultimately it fits with the linear puzzles in the game. Follow the latest breadcrumb caused by whatever you interacted with previously and hope that nothing has glitched out. It all became a series of vibrant, messy color as I went through it all. Even the second time, which I ended up enjoying more after knowing what upcoming changes I would cause in each area. It allowed me to appreciate the different versions of Hob’s world and understand how neatly it all fit together—or how pipes and parts of the land would become relevant later on, instead of only half remembering the first time through since I had no way of knowing what would be important.
+
+It’s that impression that I’m left with now. What else would have become something really interesting, or engrossing, or even challenging with the combat, if Hob had been fully finished? Would there have been more developed enemy types, more vertical stacks of land to raise, a mechanical handful of bosses, or even an ambient sound slider?
+
+I think there are some great ideas trapped and buried within Hob, that were waiting to be rescued, and ready to emerge pristine to stand tall. I am very sorry that I had to criticize so much of it.
